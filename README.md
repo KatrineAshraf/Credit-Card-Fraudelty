@@ -14,10 +14,10 @@ You can find the dataset in [kaggle](https://www.kaggle.com/datasets/shubhamjosh
 # Project Overview
 This is a Data Mining project that simply detects fraud credit cards and prevent them from going any further with transactions to avoid scams.
 In this repository we'll discuss 5 main points:
-1. [Data Explain and Clean.](https://github.com/KatrineAshraf/Credit-Card-Fraudelty/new/master?filename=README.md#1-data-explain-and-clean)
-2. [Training data with Agglomerative Clustering method.](#2.-Agglomerative-Clustering-Method)
-3. [Training data with K-Medoids method.](#3.-K-Medoids-Clustering-Method)
-4. [Training data with Naive Bayes method.](#4.-Naive-Bayes-Method)
+1. [Data Explain and Clean.](#1-data-explain-and-clean)
+2. [Training data with Agglomerative Clustering method.](#2-agglomerative-clustering-method)
+3. [Training data with K-Medoids method.](#3-k-medoids-clustering-method)
+4. [Training data with Naive Bayes method.](#4-naive-bayes-method)
 5. [Conclusion](#Conclusion)
 
 # 1. Data Explain and Clean
