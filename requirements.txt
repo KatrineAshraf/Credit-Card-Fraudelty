@@ -1,3 +1,6 @@
-scipy
-scikit-learn
-scikit-learn-extra
+pandas==2.0.2
+numpy==1.23.5
+matplotlib==3.7.1
+scipy==1.10.1
+scikit-learn==1.2.2
+scikit-learn-extra==0.3.0
